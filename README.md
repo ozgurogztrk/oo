@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ozgurogztrk/oo/blob/main/duck-duck-dance.gif">
+<img src="https://github.com/ozgurogztrk/ozgurogztrk/blob/main/amogus.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ozgur Oguzturk</h1>
