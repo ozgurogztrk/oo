@@ -2,7 +2,7 @@
 <img src="https://github.com/ozgurogztrk/ozgurogztrk/blob/main/amogus.gif">
 </p>
 
-<h1 align="center">Hi 🌠, I'm Ozgur Oguzturk</h1>
+<h1 align="center">Hi, I'm Ozgur Oguzturk</h1>
 <h3 align="center">A Game Developer | Web Hobbyist From Istanbul/Turkey</h3>
 
 - 📫 How to reach me **ozguroguzturk@gmail.com**
