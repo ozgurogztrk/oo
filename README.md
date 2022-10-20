@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Ozgur Oguzturk</h1>
 <h3 align="center">A Game Developer From Istanbul/Turkey</h3>
 
-- 📫 How to reach me **ozguroguzturk@gmail.com**
+- 📫 How to reach me **ozguroguzturk@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
