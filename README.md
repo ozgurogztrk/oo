@@ -3,17 +3,17 @@
 </div>  
   
 
-### <div align="center">Hi, i'm Özgür, a game and front-end web developer 👾 working from Turkey 🚀</div>  
+### <div align="center">Hi, i'm Özgür, a Unity and Frontend developer 👾 working from Türkiye 🚀</div>  
   
 
-- ⚡ Fun fact: I'm a psychopath who prefers every possible meal with ketchup.  
+<p align="center">- 👩🏻‍🍳 Fun fact: I'm a psychopath who prefers every possible meal with ketchup.</p>  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
