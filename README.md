@@ -7,7 +7,7 @@
   
 
 <p align="center">- 👩🏻‍🍳 Fun fact: I'm a psychopath who prefers every possible meal with ketchup.</p>  
-  
+<p align="center">- ✍🏻 Currently working on: A blog website for writing articles about games.</p>
 
 <br/>  
 
@@ -81,7 +81,7 @@
 
 <br/>  
 
-## You Can Stalk What I'm Listening To
+## My Music Taste
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=u4jxgzr4srnhb04bvu83l6vju&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
