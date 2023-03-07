@@ -26,7 +26,6 @@
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/faa52408def7e90dd8b2c84a09a62bf675ba11152395c61dae6a131458fbbae8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e7578746a732f6e7578746a732d69636f6e2e737667" alt="Nuxt JS" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
